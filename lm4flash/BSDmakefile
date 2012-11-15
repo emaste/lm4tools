@@ -1,0 +1,5 @@
+PROG=	lm4flash
+LDADD=	-lusb
+NO_MAN=
+
+.include <bsd.prog.mk>
